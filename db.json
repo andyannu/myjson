@@ -1,4 +1,4 @@
-                   {
+ [                  {
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -17,3 +17,4 @@
 			"totalrecovered": "0"
 		}
     
+]
